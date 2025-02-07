@@ -1,0 +1,12 @@
+console.log("Try programiz.pro");
+const h = new Date();
+console.log(h.toTimeString());
+console.log(h.getFullYear());
+console.log(h.getMonth());
+console.log(h.getMinutes());
+console.log(h.getDate());
+console.log(h.toISOString());
+console.log("Try programiz.pro");
+console.log(h.toLocaleTimeString());
+console.log(h.toLocaleString());
+console.log(h.getDay());
