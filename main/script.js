@@ -21,7 +21,7 @@ const button = document.getElementById('button');
     document.addEventListener('mousemove', moveButtonAway);
 
 document.getElementById('second').addEventListener('click',function(){
-    alert("no one loves you 😂😂",true);
+    alert("LOVE YOU TOO ❤️🧸 ",true);
 })
 
 

@@ -28,6 +28,7 @@
       text-align: center; 
       text-transform: uppercase; 
       letter-spacing: 2px; 
+      font-family:cursive;
     }
 
 
@@ -40,8 +41,13 @@
       padding: 10px 20px; 
       border-radius: 5px; 
       transition: background-color 0.3s ease, color 0.3s ease; 
-    }
+      font-family:cursive;
 
+      
+    }
+    #NO {
+      cursor: progress;
+    }
     a:hover {
       background-color: #dd5edd; 
       color: white; 
@@ -52,8 +58,8 @@
 <body id="body">
   <h1>DO YOU LIKE ME ?</h1>
   <div style="display: flex;gap: 100px;">
-  <a href="./innndex.html">YES</a>
-  <a id="NO"href="#">NO</a>
+  <a href="./innndex.html">YES 😊</a>
+  <a id="NO"href="#">NO 😫</a>
 </div>
   <script>
     document.getElementById('NO').addEventListener('click',function(){

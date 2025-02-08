@@ -10,3 +10,4 @@ console.log("Try programiz.pro");
 console.log(h.toLocaleTimeString());
 console.log(h.toLocaleString());
 console.log(h.getDay());
+console.log(Date.now()/60);

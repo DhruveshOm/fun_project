@@ -8,8 +8,10 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family:cursive;
 }
 #button, #second {
+  font-family:cursive;
     padding: 20px 40px;
     font-size: 20px;
     position:fixed;
@@ -27,6 +29,7 @@ body {
 }
 
 h1{
+  font-family:cursive;
   margin-top: 200px;
   /* margin-top: 200px; */
   text-align:center;
